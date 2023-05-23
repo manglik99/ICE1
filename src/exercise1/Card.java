@@ -12,6 +12,14 @@ package exercise1;
  */
 public class Card {
 
+    public Card() {
+    }
+
+    public Card(String suit, int value) {
+        this.suit = suit;
+        this.value = value;
+    }
+
    private String suit; //clubs, spades, diamonds, hearts
    private int value;//1-13
 
