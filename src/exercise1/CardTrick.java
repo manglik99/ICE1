@@ -69,7 +69,7 @@ public class CardTrick extends Card {
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
         
-        System.out.println("My name is Manglik, but you can call me MK");
+        System.out.println("My name is Manglik Chokshi, but you can call me MK");
         System.out.println();
         
         System.out.println("My career ambitions:");
